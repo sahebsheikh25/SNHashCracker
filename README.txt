@@ -42,7 +42,7 @@ NOTES:
 📥 SNHashCracker – GitHub Download & Usage Manual
 
 🔗 Step 1: Visit the Repository
-   https://github.com/isaheb360/SNHashCracker
+   https://github.com/sahebsheikh25/SNHashCracker
 
 📦 Step 2: Download the Project
 Option A: As ZIP
