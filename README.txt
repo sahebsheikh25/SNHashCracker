@@ -51,4 +51,4 @@ Option A: As ZIP
    - Extract the ZIP file
 
 Option B: Via Git
-   git clone https://github.com/isaheb360/SNHashCracker.git
+   git clone https://github.com/sahebsheikh25/SNHashCracker.git
